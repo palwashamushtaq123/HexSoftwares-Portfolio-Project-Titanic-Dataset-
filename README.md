@@ -58,5 +58,3 @@ Scikit-learn
 **This project demonstrates a complete data science pipeline, from raw data to predictive modeling. It highlights how data analysis, feature engineering, and machine learning can be combined to extract meaningful insights and build predictive models.**
 
 **Author:** **PALWASHA Muhtaq Ahmed – Data Science Enthusiast**
-
-make it look like a top 1% GitHub README (very professional portfolio style)
